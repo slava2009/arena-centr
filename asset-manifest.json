@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/arena-big/static/css/main.e36bf1b7.chunk.css",
+    "main.js": "/arena-big/static/js/main.960902eb.chunk.js",
+    "main.js.map": "/arena-big/static/js/main.960902eb.chunk.js.map",
+    "runtime-main.js": "/arena-big/static/js/runtime-main.6d4990d8.js",
+    "runtime-main.js.map": "/arena-big/static/js/runtime-main.6d4990d8.js.map",
+    "static/js/2.53a7e754.chunk.js": "/arena-big/static/js/2.53a7e754.chunk.js",
+    "static/js/2.53a7e754.chunk.js.map": "/arena-big/static/js/2.53a7e754.chunk.js.map",
+    "static/js/3.ad70fcd3.chunk.js": "/arena-big/static/js/3.ad70fcd3.chunk.js",
+    "static/js/3.ad70fcd3.chunk.js.map": "/arena-big/static/js/3.ad70fcd3.chunk.js.map",
+    "index.html": "/arena-big/index.html",
+    "static/css/main.e36bf1b7.chunk.css.map": "/arena-big/static/css/main.e36bf1b7.chunk.css.map",
+    "static/js/2.53a7e754.chunk.js.LICENSE.txt": "/arena-big/static/js/2.53a7e754.chunk.js.LICENSE.txt",
+    "static/media/logo.980e1343.png": "/arena-big/static/media/logo.980e1343.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d4990d8.js",
+    "static/js/2.53a7e754.chunk.js",
+    "static/css/main.e36bf1b7.chunk.css",
+    "static/js/main.960902eb.chunk.js"
+  ]
+}
