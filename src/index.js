@@ -16,7 +16,7 @@ bridge.send("VKWebAppInit", {});
 
 // Проверяет, поддерживается ли событие на текущей платформе.
 if (bridge.supports("VKWebAppResizeWindow")) {
-    bridge.send("VKWebAppResizeWindow", {"width": 800, "height": 600});
+    bridge.send("VKWebAppResizeWindow", {"width": 600, "height": 1000});
 }
 
 ReactDOM.render(
