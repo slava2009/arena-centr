@@ -7,11 +7,11 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Расписание <code>Большой арены</code>.
+          Расписание <code>Большой Центральной игровой арены</code>.
         </p>
         <a
           className="App-link"
-          href="https://calendar.google.com/calendar/embed?src=jgl24dlkvmobfa4eh6ob5qomks%40group.calendar.google.com&ctz=Europe%2FMoscow"
+          href="https://calendar.google.com/calendar/embed?src=b491b4e810851afe89db6c0b8055320d09af3246f60b8b7004b39c6bece7164b@group.calendar.google.com&ctz=Europe/Moscow"
           target="_blank"
           rel="noopener noreferrer"
         >
