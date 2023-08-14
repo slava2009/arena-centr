@@ -1,9 +1,5 @@
 import logo from './logo.png';
 import './App.css';
-import FullCalendar from "@fullcalendar/react"; // must go before plugins
-import dayGridPlugin from "@fullcalendar/daygrid"; // a plugin!
-import interactionPlugin from "@fullcalendar/interaction"; // allows click events
-import googleCalendarPlugin from "@fullcalendar/google-calendar";
 
 function App() {
   return (
@@ -11,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Расписание <code>Центральной игровой арены</code>.
+          Расписание <code>Центральной  арены</code>.
         </p>
         <a
           className="App-link"
