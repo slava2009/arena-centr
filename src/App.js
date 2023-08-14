@@ -1,25 +1,7 @@
 import logo from './logo.png';
 import './App.css';
-import React, { Component } from 'react';
-import Calendar from 'react-calendar';
 
-class App extends Component {
 function App() {
-  state = {
-    date: new Date(),
-  }
-  onChange = date => this.setState({ date })
-  render() {
-    return (
-      <div>
-        <Calendar
-          onChange={this.onChange}
-          value={this.state.date}
-        />
-      </div>
-    );
-  }
-
   return (
     <div className="App">
       <header className="App-header">
@@ -39,5 +21,8 @@ function App() {
     </div>
   );
 }
+
+export default App;
+
 
 export default App;
